@@ -1,11 +1,11 @@
 Package: FunciSNP.data
 Type: Package
 Title: Various data sets for use with the FunciSNP package
-Version: 1.3.2
+Version: 1.3.3
 Date: 2012-05-18
 Author: Simon G. Coetzee <simon@simoncoetzee.com> and Houtan Noushmehr, PhD <houtan@usp.br>
 Maintainer: Simon G. Coetzee <scoetzee@gmail.com>
-biocViews: SNPData, 1000genomes, ENCODE
+biocViews: SNPData, Project1000genomes, ENCODE
 Depends: R (>= 2.14.0), IRanges
 Imports: rtracklayer
 Description: Data sets needed for FunciSNP to integrate information from GWAS, 1000genomes and chromatin feature, in order to identify functional SNP in coding or non-coding regions. 
