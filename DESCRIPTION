@@ -1,7 +1,7 @@
 Package: FunciSNP.data
 Type: Package
 Title: Various data sets for use with the FunciSNP package
-Version: 1.25.1
+Version: 1.26.0
 Date: 2012-05-18
 Author: Simon G. Coetzee <simon@simoncoetzee.com> and Houtan Noushmehr, PhD <houtan@usp.br>
 Maintainer: Simon G. Coetzee <scoetzee@gmail.com>
